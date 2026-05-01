@@ -1,7 +1,3 @@
-
-# README.md
-
-
 # 🎵 SoundCloud API Proxy
 
 A simple and useful proxy for accessing SoundCloud's unofficial API
